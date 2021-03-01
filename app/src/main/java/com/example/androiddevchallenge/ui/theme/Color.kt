@@ -21,3 +21,9 @@ val purple200 = Color(0xFFBB86FC)
 val purple500 = Color(0xFF6200EE)
 val purple700 = Color(0xFF3700B3)
 val teal200 = Color(0xFF03DAC5)
+
+val red200 = Color(0xef9a9a)
+val red500 = Color(0xf44336)
+val red700 = Color(0xd32f2f)
+
+val background = Color(0xffffff)
