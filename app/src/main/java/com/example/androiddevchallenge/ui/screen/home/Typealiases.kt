@@ -15,4 +15,4 @@
  */
 package com.example.androiddevchallenge.ui.screen.home
 
-typealias PetListener = ((String) -> Unit)?
+typealias PetListener = ((String) -> Unit)
