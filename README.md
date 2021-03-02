@@ -1,4 +1,4 @@
-# Put title of your app here
+# Embrace
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
@@ -7,7 +7,7 @@
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
-AdoptMe is a pet listing app that shows available pet to adopt. The data only shows doggos for now.
+Embrace is a pet listing app that shows available pets to adopt. The data only shows doggos for now.
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->

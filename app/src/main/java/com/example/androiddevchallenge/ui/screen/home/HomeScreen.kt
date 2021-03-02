@@ -69,7 +69,7 @@ fun HomeScreen(
                     .wrapContentHeight()
                     .padding(top = 40.dp),
                 title = {
-                    Text("Adopt Me")
+                    Text(stringResource(id = R.string.app_name))
                 },
                 actions = {
                     Icon(
