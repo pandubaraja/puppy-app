@@ -9,6 +9,9 @@
 <!--- Describe your app in one or two sentences -->
 Embrace is a pet listing app that shows available pets to adopt. The data only shows doggos for now.
 
+
+[Download APK](https://github.com/pandubaraja/puppy-app/releases/download/1.0/app-debug.apk)
+
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
